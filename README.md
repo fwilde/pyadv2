@@ -3,7 +3,7 @@ Fabian Wilde, University of Greifswald
 Advanced Python Course
 ----------------------
 
-This (two day) seminar was held at the university of Greifswald. The course materials can be used for independent self-study.
+This seminar was held at the university of Greifswald. The course materials can be used for independent self-study.
 
 ## Requirements
 
